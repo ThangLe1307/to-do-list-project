@@ -13,7 +13,7 @@ function App() {
       <Route path="/to-do" element={<ToDoPage />} />
       <Route path="/to-do123" element={<ToDoPage />} />
       <Route path="/type-manager" element={<TypeManagerPage />}></Route>
-      <Route path="/type-1" element={<TypeManagerPage />}></Route>
+      <Route path="/type-12" element={<TypeManagerPage />}></Route>
     </Routes>
   );
 }
