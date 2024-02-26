@@ -11,7 +11,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Cheatsheet />} />
       <Route path="/to-do" element={<ToDoPage />} />
-      <Route path="/to-do1" element={<ToDoPage />} />
+      <Route path="/to-do123" element={<ToDoPage />} />
       <Route path="/type-manager" element={<TypeManagerPage />}></Route>
     </Routes>
   );
