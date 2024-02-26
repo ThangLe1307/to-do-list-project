@@ -12,6 +12,7 @@ function App() {
       <Route path="/" element={<Cheatsheet />} />
       <Route path="/to-do" element={<ToDoPage />} />
       <Route path="/type-manager" element={<TypeManagerPage />}></Route>
+      <Route path="/type-1" element={<TypeManagerPage />}></Route>
     </Routes>
   );
 }
